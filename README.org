@@ -1,0 +1,10 @@
+* bodge-chipmunk
+
+Thin wrapper over the Chipmunk 2D physics library.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-chipmunk.git |
+| commit  | dc971c1                                         |
+| systems | bodge-chipmunk bodge-chipmunk-bindings          |
+|---------+-------------------------------------------------|
+
